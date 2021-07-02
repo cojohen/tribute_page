@@ -1,0 +1,48 @@
+@import url('https://fonts.googleapis.com/css2?family=Neuton&family=Work+Sans&display=swap');
+
+body {
+    background: #0d1321;
+    font-family: 'Work Sans', sans-serif;
+    color: #C5D86D;
+}
+
+h1 {
+    color: #C5D86D;
+    font-family: 'Neuton', serif;
+    font-size: 3em;
+}
+
+#main {
+    position: relative;
+    margin: 0 auto;
+    width: 50%;
+    text-align: center;
+}
+
+#image{
+    border: 12px solid #2a300d;
+    max-width: 60%;
+    height: auto;
+    padding: .5em;
+    border-radius: 28px;
+    background: #fff;
+}
+
+#img-caption{
+    font-size: .9em;
+    text-decoration: underline;
+    font-weight: bold;
+    color: #FFEDDF;
+    margin: 1em;
+}
+
+#tribute-info {
+    padding: 2em;
+    margin: 1em;
+}
+
+#tribute-link {
+    margin: 1em;
+    display: block;
+    color: white;
+}
